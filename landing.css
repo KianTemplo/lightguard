@@ -1,0 +1,25 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f5f7fa;
+}
+
+.dashboard-heading {
+  background-color: #1e3a5f;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+  background-color: #1e3a5f;
+}
+
+h1, h2 {
+  color: #1e3a5f;
+}
+
+.dashboard-heading h1 {
+  color: #fff;
+}
